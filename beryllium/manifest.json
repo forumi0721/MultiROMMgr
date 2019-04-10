@@ -1,0 +1,35 @@
+{
+    "status": "ok",
+    "date": "2018-04-10",
+    "commands": "",
+    "gpg": false,
+    "devices": [
+        {
+            "files": [
+                {
+                    "url": "https://jaist.dl.sourceforge.net/project/multirom-beryllium/multirom-20190107.zip",
+                    "version": "20190107",
+                    "type": "multirom",
+                    "size": 10961360,
+                    "md5": "2e3e66e7a36407e869eade9599679f8c"
+                },
+                {
+                    "url": "https://jaist.dl.sourceforge.net/project/multirom-beryllium/recovery-20190310.img",
+                    "version": "20190310",
+                    "type": "recovery",
+                    "size": 40431616,
+                    "md5": "dee281baff5b41c7167a184d48d5cd81"
+                },
+                {
+                    "url": "https://jaist.dl.sourceforge.net/project/multirom-beryllium/multirom_uninstaller.zip",
+                    "version": "",
+                    "type": "uninstaller",
+                    "size": 1690640,
+                    "md5": "bac4aca01f133c5cb96625f9c97530cf"
+                }
+            ],
+            "changelogs": [],
+            "name": "beryllium"
+        }
+    ]
+}

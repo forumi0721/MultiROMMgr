@@ -698,6 +698,28 @@
                     "path": "/dev/block/platform/soc.0/f9824900.sdhci/by-name/cache"
                 }
             ]
+        },
+        {
+            "names": [ "beryllium" ],
+            "ubuntu_touch": {
+                "enabled": false
+            },
+            "official": false,
+            "manifest_url": "https://github.com/forumi0721/MultiROMMgr/raw/master/beryllium/manifest.json",
+            "devices": [
+                {
+                    "name": "recovery",
+                    "path": "/dev/block/platform/soc/1d84000.ufshc/by-name/recovery"
+                },
+                {
+                    "name": "boot",
+                    "path": "/dev/block/platform/soc/1d84000.ufshc/by-name/boot"
+                },
+                {
+                    "name": "cache",
+                    "path": "/dev/block/platform/soc/1d84000.ufshc/by-name/cache"
+                }
+            ]
         }
     ]
 }
